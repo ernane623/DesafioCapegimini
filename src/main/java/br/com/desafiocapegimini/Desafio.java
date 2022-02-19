@@ -132,6 +132,7 @@ public class Desafio {
             System.out.println("1 - para a primeira questão.");
             System.out.println("2 - para a segunda questão.");
             System.out.println("3 - para a terceira questão.");
+            System.out.println("4 - para a segunda questão (DLC).");
             System.out.println("0 - para encerrar o programa.");
             System.out.println("\n");
             
