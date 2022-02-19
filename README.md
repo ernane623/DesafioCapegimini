@@ -1,4 +1,6 @@
 # DesafioCapegimini
+* Necessário Java (Recomendado versão 11)
+* Necessário utilização do Maven
 ### Gerar arquivo ".jar"
   * Clone o repositório:
 ```sh
